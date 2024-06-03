@@ -18,7 +18,7 @@ git clone https://github.com/FerdinandoJr/turing-machine-translater.git
 1) Coloque o programa da Máquina de Turing no arquivo "input.in" seguindo a sintaxe especificada.
 2) Execute o script "main.py":
 
-```py
+```sh
 python main.py
 ```
 3) Assim que o script executar, a resposta aparecerá no arquivo "output.out"
